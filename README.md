@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GCP VM Lab — Terraform + GitHub Codespaces
 
 Creates 5 `e2-micro` VMs on Google Cloud using Terraform, run from a GitHub Codespace.
@@ -31,3 +32,6 @@ terraform destroy
 Only **one** e2-micro (in us-central1/us-west1/us-east1) is covered by GCP's
 always-free tier. Five of them cost roughly $0.05/hour total — fine for a lab
 session, but run `terraform destroy` when you're done.
+=======
+# gcp-vm-lab
+>>>>>>> 9a020e13c710888194698d0e8ac624ae250a3478
